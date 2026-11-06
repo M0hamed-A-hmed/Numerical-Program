@@ -23,9 +23,7 @@ Explore different algorithms, track iterations, and visualize results.
 - Visualize graphs and convergence.
 - Export results as CSV files.
 
-## 🖥️ Preview
-
-![App Screenshot](screenshot.png)
+ 
 
 ## 🚀 Installation
 
